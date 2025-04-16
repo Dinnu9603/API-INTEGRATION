@@ -28,3 +28,9 @@ Displays temperature and weather condition in a styled weather card.
 Responsive UI (mobile/tablet/desktop compatible).
 Clean layout with friendly error handling.
 
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/5393a1a6-dbf7-4ad0-b809-c1ff5e549882)
+![Image](https://github.com/user-attachments/assets/9535b37b-e411-4112-aa7e-ace407d00e68)
+
